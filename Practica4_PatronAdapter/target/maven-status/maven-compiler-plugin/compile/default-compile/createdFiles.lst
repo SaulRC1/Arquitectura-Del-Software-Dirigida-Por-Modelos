@@ -1,0 +1,5 @@
+asdm\saul_rodriguez_naranjo\practica4_patronadapter\PatronAdapterMain.class
+asdm\saul_rodriguez_naranjo\practica4_patronadapter\models\Coche.class
+asdm\saul_rodriguez_naranjo\practica4_patronadapter\adapters\CocheToBarcoAdapter.class
+asdm\saul_rodriguez_naranjo\practica4_patronadapter\interfaces\ICoche.class
+asdm\saul_rodriguez_naranjo\practica4_patronadapter\models\Barco.class

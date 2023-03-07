@@ -1,0 +1,6 @@
+asdm\saul_rodriguez_naranjo\practica2_patronfactory\controllers\NewClass.class
+asdm\saul_rodriguez_naranjo\practica2_patronfactory\PatronFactoryApp.class
+asdm\saul_rodriguez_naranjo\practica2_patronfactory\models\concretemodels\HoraFormato24Horas.class
+asdm\saul_rodriguez_naranjo\practica2_patronfactory\controllers\factory\FactoriaHoras.class
+asdm\saul_rodriguez_naranjo\practica2_patronfactory\models\factorymodels\Hora.class
+asdm\saul_rodriguez_naranjo\practica2_patronfactory\models\concretemodels\HoraFormatoAM_PM.class
